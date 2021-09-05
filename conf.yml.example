@@ -1,6 +1,6 @@
 info:
   title: AList #标题
-  logo: "" #网站logo 如果填写,则会替换掉默认的
+  logo: "" #网站logo 如果填写,则会替换掉默认
   footer_text: Xhofe's Blog #网页底部文字
   footer_url: https://www.nn.ci #网页底部文字链接
   music_img: https://img.oez.cc/2020/12/19/0f8b57866bdb5.gif #预览音乐文件时的图片
